@@ -449,8 +449,8 @@ header {
 	background-color:#2F4254;
 }
 
-.jumbotron{background: linear-gradient(-45deg, #0a0e1f, #104a4e, #486682, #2f4254);
-	background-size: 400% 400%;
+.jumbotron{background: transparent;
+	
 	animation: gradient 16s ease infinite;
 	
 	/* background-color:#2F4254; */
